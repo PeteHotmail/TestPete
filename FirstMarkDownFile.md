@@ -8,5 +8,6 @@ There will be a series of changes to here is the first one
 4) The fourth change at the same day, bt 10 minutes later
 5) This is the fith change late on Friday afternoon
 6) This is the sixth change with no pull request and merged directly
+7) This is the seventh change with a new branch and pull request
 
 > Written with [StackEdit](https://stackedit.io/).
