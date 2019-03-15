@@ -7,6 +7,6 @@ There will be a series of changes to here is the first one
 2) Third change at same day but 5 minutes later
 4) The fourth change at the same day, bt 10 minutes later
 5) This is the fith change late on Friday afternoon
-6) This is the sixth change with only local pull request
+6) This is the sixth change with no pull request and merged directly
 
 > Written with [StackEdit](https://stackedit.io/).
